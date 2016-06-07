@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Action_Category_Demo" />
+            <option value="$PROJECT_DIR$/AnimatorDemo" />
+            <option value="$PROJECT_DIR$/Attribute_Resource_Demo" />
+            <option value="$PROJECT_DIR$/Bitmap_Demo" />
+            <option value="$PROJECT_DIR$/Butterfly_Demo" />
+            <option value="$PROJECT_DIR$/Canvas_Demo" />
+            <option value="$PROJECT_DIR$/HandDraw_Demo" />
+            <option value="$PROJECT_DIR$/IntentTabDemo" />
+            <option value="$PROJECT_DIR$/LayerDrawableDemo" />
+            <option value="$PROJECT_DIR$/MoveBack_Demo" />
+            <option value="$PROJECT_DIR$/Path_Demo" />
+            <option value="$PROJECT_DIR$/Raw_Resource_Demo" />
+            <option value="$PROJECT_DIR$/ShapeDrawableDemo" />
+            <option value="$PROJECT_DIR$/ShowWave_Demo" />
+            <option value="$PROJECT_DIR$/XmlResouceDemo" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Action_Category_Demo" />
+            <option value="$PROJECT_DIR$/AnimatorDemo" />
+            <option value="$PROJECT_DIR$/Attribute_Resource_Demo" />
+            <option value="$PROJECT_DIR$/Bitmap_Demo" />
+            <option value="$PROJECT_DIR$/Butterfly_Demo" />
+            <option value="$PROJECT_DIR$/Canvas_Demo" />
+            <option value="$PROJECT_DIR$/HandDraw_Demo" />
+            <option value="$PROJECT_DIR$/IntentTabDemo" />
+            <option value="$PROJECT_DIR$/LayerDrawableDemo" />
+            <option value="$PROJECT_DIR$/MoveBack_Demo" />
+            <option value="$PROJECT_DIR$/Path_Demo" />
+            <option value="$PROJECT_DIR$/Raw_Resource_Demo" />
+            <option value="$PROJECT_DIR$/ShapeDrawableDemo" />
+            <option value="$PROJECT_DIR$/ShowWave_Demo" />
+            <option value="$PROJECT_DIR$/XmlResouceDemo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

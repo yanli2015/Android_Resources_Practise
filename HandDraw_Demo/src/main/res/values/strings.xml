@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HandDraw_Demo</string>
+    <string name="action_settings">Settings</string>
+
+
+        <string name="width_1">1</string>
+        <string name="width_3">3</string>
+        <string name="width_5">5</string>
+        <string name="color_red">red</string>
+        <string name="color_green">green</string>
+        <string name="color_blue">blue</string>
+        <string name="color">paint color</string>
+        <string name="width">paint width</string>
+        <string name="blur">blur effect</string>
+        <string name="emboss">emboss effect</string>
+
+
+</resources>

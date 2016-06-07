@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<books>
+    <book
+        price="54.99"
+        publishDate="05-11-2016">Java Book
+    </book>
+    <book
+        price="44.99"
+        publishDate="06-12-2016">Python Book
+    </book>
+    <book
+        price="64.99"
+        publishDate="04-12-2015">C++ Book
+    </book>
+
+</books>
+

@@ -1,0 +1,1 @@
+include ':Action_Category_Demo', ':IntentTabDemo', ':LayerDrawableDemo', ':ShapeDrawableDemo', ':AnimatorDemo', ':XmlResouceDemo', ':Attribute_Resource_Demo', ':Raw_Resource_Demo', ':Bitmap_Demo', ':Canvas_Demo', ':Path_Demo', ':HandDraw_Demo', ':MoveBack_Demo', ':Butterfly_Demo', ':ShowWave_Demo'

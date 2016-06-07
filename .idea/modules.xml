@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Action_Category_Demo/Action_Category_Demo.iml" filepath="$PROJECT_DIR$/Action_Category_Demo/Action_Category_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android_Resources_Practise.iml" filepath="$PROJECT_DIR$/Android_Resources_Practise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnimatorDemo/AnimatorDemo.iml" filepath="$PROJECT_DIR$/AnimatorDemo/AnimatorDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Attribute_Resource_Demo/Attribute_Resource_Demo.iml" filepath="$PROJECT_DIR$/Attribute_Resource_Demo/Attribute_Resource_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bitmap_Demo/Bitmap_Demo.iml" filepath="$PROJECT_DIR$/Bitmap_Demo/Bitmap_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Butterfly_Demo/Butterfly_Demo.iml" filepath="$PROJECT_DIR$/Butterfly_Demo/Butterfly_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Canvas_Demo/Canvas_Demo.iml" filepath="$PROJECT_DIR$/Canvas_Demo/Canvas_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HandDraw_Demo/HandDraw_Demo.iml" filepath="$PROJECT_DIR$/HandDraw_Demo/HandDraw_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntentTabDemo/IntentTabDemo.iml" filepath="$PROJECT_DIR$/IntentTabDemo/IntentTabDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LayerDrawableDemo/LayerDrawableDemo.iml" filepath="$PROJECT_DIR$/LayerDrawableDemo/LayerDrawableDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MoveBack_Demo/MoveBack_Demo.iml" filepath="$PROJECT_DIR$/MoveBack_Demo/MoveBack_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Path_Demo/Path_Demo.iml" filepath="$PROJECT_DIR$/Path_Demo/Path_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Raw_Resource_Demo/Raw_Resource_Demo.iml" filepath="$PROJECT_DIR$/Raw_Resource_Demo/Raw_Resource_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShapeDrawableDemo/ShapeDrawableDemo.iml" filepath="$PROJECT_DIR$/ShapeDrawableDemo/ShapeDrawableDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShowWave_Demo/ShowWave_Demo.iml" filepath="$PROJECT_DIR$/ShowWave_Demo/ShowWave_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XmlResouceDemo/XmlResouceDemo.iml" filepath="$PROJECT_DIR$/XmlResouceDemo/XmlResouceDemo.iml" />
+    </modules>
+  </component>
+</project>
